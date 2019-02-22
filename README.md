@@ -38,6 +38,8 @@ For anything else noteworthy.
 
 # suggestion-template
 
+[Here's](https://pastebin.com/6yyZ6ViR) a link to this on a pastebin.
+
 **Suggester:**
 Who is suggesting this? Please include discord name.
 
