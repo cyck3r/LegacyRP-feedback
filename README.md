@@ -29,9 +29,6 @@ If suitable, include some screenshots. You also *have* to include screenshots of
 **Game Resolution:**
 What is your game's resolution?
 
-**Player Data:**
-Write /info whilst ingame and provide the information you're given.
-
 **Notes:**
 For anything else noteworthy.
 
