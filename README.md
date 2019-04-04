@@ -1,5 +1,5 @@
 # LegacyRP-feedback
-Bug reporting &amp; suggestions for Legacy Roleplay. discord.gg/aczD6dQ/
+Bug reporting &amp; suggestions for Legacy Roleplay. https://discord.gg/aczD6dQ/
 
 Please use our forums to report staff related issues such as RDM/VDM/Compensation Requests. This feedback section is for development related bugs and ideas. https://legacyroleplay.online/c/support
 
